@@ -35,6 +35,28 @@ Currently, I'm expanding my data science journey through real-world projects and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abbas-Seifossadat&theme=default" alt="Abbas's GitHub Summary"/>
 </p>
 
+## 💻 Github Stats
+
+<p align="center">
+Explore the behind-the-scenes of my daily coding grind, continuous learning, and passion for tech on GitHub.
+</p>
+
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abbas-Seifossadat&theme=default" alt="Abbas's GitHub Profile Details"/></td>   
+    <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas-Seifossadat&theme=default" alt="Abbas's Contribution Streak"/></td>
+  </tr>
+</table>
+
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abbas-Seifossadat&theme=default" alt="Abbas's GitHub Stats"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abbas-Seifossadat&theme=default&utcOffset=3.5" alt="Abbas's Productive Time"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abbas-Seifossadat&theme=default" alt="Abbas's Repos by Language"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abbas-Seifossadat&theme=default" alt="Abbas's Most Used Language"/></td>
+  </tr>
+</table>
+
 ---
 
 ## 🔗 Connect with Me
