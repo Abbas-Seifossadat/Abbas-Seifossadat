@@ -1,14 +1,19 @@
-# 👋 Hi there, I'm Abbas Seifossadat!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Abbas+Seifossadat!;Data+Scientist+%7C+ML+%7C+CV+%7C+NLP+Enthusiast;Always+learning+something+new+every+day!" alt="Typing SVG Header" />
+</p>
+
+---
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with a background in **Electrical Engineering** and a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 
 Currently, I'm expanding my data science journey through real-world projects and internships. I'm always up for exciting challenges involving predictive modeling, image processing, or NLP.
 
-- 🔭 I’m currently working on ML and CV projects
-- 🥇 Winner of 2 national AI competitions
-- 🧠 Kaggle Notebooks Expert | Medium & CafeTadris contributor
-- 📍 Based in Ahvaz, Iran — open to remote opportunities!
+- 🔭 I’m currently working on ML and CV projects  
+- 🥇 Winner of 2 national AI competitions  
+- 🧠 Kaggle Notebooks Expert | Medium & CafeTadris contributor  
+- 📍 Based in Ahvaz, Iran — open to remote opportunities!  
 - 📫 Reach me: abbas.seifossadat@gmail.com
+
 
 ---
 
