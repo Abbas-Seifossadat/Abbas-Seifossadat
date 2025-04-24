@@ -27,14 +27,6 @@ Currently, I'm expanding my data science journey through real-world projects and
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abbas-Seifossadat&theme=default" alt="Abbas's GitHub Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abbas-Seifossadat&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-Seifossadat&layout=compact&theme=default" />
-</p>
-
 ## 💻 GitHub Stats
 
 <p align="center">
@@ -48,10 +40,6 @@ Currently, I'm expanding my data science journey through real-world projects and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abbas-Seifossadat&show_icons=true&theme=default" alt="Abbas's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-Seifossadat&layout=compact&theme=default" alt="Abbas's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abbas-Seifossadat&theme=default" alt="Abbas's GitHub Contribution Streak"/>
 </p>
 
 ---
