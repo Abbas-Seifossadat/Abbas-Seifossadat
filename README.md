@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abbas Seifossadat!
 
-Welcome to my GitHub! I'm a passionate **Data Scientist** with a background in **Electrical Engineering** and a strong focus on **Machine Learning**, **Deep Learning**, and **Data Analysis**.
+Welcome to my GitHub! I'm a passionate **Data Scientist** with a background in **Electrical Engineering** and a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 
 Currently, I'm expanding my data science journey through real-world projects and internships. I'm always up for exciting challenges involving predictive modeling, image processing, or NLP.
 
@@ -31,7 +31,8 @@ Currently, I'm expanding my data science journey through real-world projects and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abbas-Seifossadat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas-Seifossadat&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-Seifossadat&layout=compact&theme=radical" />
+
 </p>
 
 ---
